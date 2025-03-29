@@ -1,0 +1,601 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\ADV\\Downloads\\MyMVCApp\\MyMVCApp\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\MyMVCApp.bundle.scp.css",
+      "PackagePath": "staticwebassets\\MyMVCApp.i1u46n8igf.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\ADV\\Downloads\\MyMVCApp\\MyMVCApp\\wwwroot\\css\\material-dashboard.css",
+      "PackagePath": "staticwebassets\\css\\material-dashboard.css"
+    },
+    {
+      "Id": "C:\\Users\\ADV\\Downloads\\MyMVCApp\\MyMVCApp\\wwwroot\\css\\material-dashboard.css.map",
+      "PackagePath": "staticwebassets\\css\\material-dashboard.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ADV\\Downloads\\MyMVCApp\\MyMVCApp\\wwwroot\\css\\material-dashboard.min.css",
+      "PackagePath": "staticwebassets\\css\\material-dashboard.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ADV\\Downloads\\MyMVCApp\\MyMVCApp\\wwwroot\\css\\nucleo-icons.css",
+      "PackagePath": "staticwebassets\\css\\nucleo-icons.css"
+    },
+    {
+      "Id": "C:\\Users\\ADV\\Downloads\\MyMVCApp\\MyMVCApp\\wwwroot\\css\\nucleo-svg.css",
+      "PackagePath": "staticwebassets\\css\\nucleo-svg.css"
+    },
+    {
+      "Id": "C:\\Users\\ADV\\Downloads\\MyMVCApp\\MyMVCApp\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\ADV\\Downloads\\MyMVCApp\\MyMVCApp\\wwwroot\\img\\apple-icon.png",
+      "PackagePath": "staticwebassets\\img\\apple-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\ADV\\Downloads\\MyMVCApp\\MyMVCApp\\wwwroot\\img\\bg-pricing.jpg",
+      "PackagePath": "staticwebassets\\img\\bg-pricing.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADV\\Downloads\\MyMVCApp\\MyMVCApp\\wwwroot\\img\\bg-smart-home-1.jpg",
+      "PackagePath": "staticwebassets\\img\\bg-smart-home-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADV\\Downloads\\MyMVCApp\\MyMVCApp\\wwwroot\\img\\bg-smart-home-2.jpg",
+      "PackagePath": "staticwebassets\\img\\bg-smart-home-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADV\\Downloads\\MyMVCApp\\MyMVCApp\\wwwroot\\img\\bruce-mars.jpg",
+      "PackagePath": "staticwebassets\\img\\bruce-mars.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADV\\Downloads\\MyMVCApp\\MyMVCApp\\wwwroot\\img\\down-arrow-dark.svg",
+      "PackagePath": "staticwebassets\\img\\down-arrow-dark.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADV\\Downloads\\MyMVCApp\\MyMVCApp\\wwwroot\\img\\down-arrow-white.svg",
+      "PackagePath": "staticwebassets\\img\\down-arrow-white.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADV\\Downloads\\MyMVCApp\\MyMVCApp\\wwwroot\\img\\down-arrow.svg",
+      "PackagePath": "staticwebassets\\img\\down-arrow.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADV\\Downloads\\MyMVCApp\\MyMVCApp\\wwwroot\\img\\drake.jpg",
+      "PackagePath": "staticwebassets\\img\\drake.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADV\\Downloads\\MyMVCApp\\MyMVCApp\\wwwroot\\img\\favicon.png",
+      "PackagePath": "staticwebassets\\img\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\ADV\\Downloads\\MyMVCApp\\MyMVCApp\\wwwroot\\img\\home-decor-1.jpg",
+      "PackagePath": "staticwebassets\\img\\home-decor-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADV\\Downloads\\MyMVCApp\\MyMVCApp\\wwwroot\\img\\home-decor-2.jpg",
+      "PackagePath": "staticwebassets\\img\\home-decor-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADV\\Downloads\\MyMVCApp\\MyMVCApp\\wwwroot\\img\\home-decor-3.jpg",
+      "PackagePath": "staticwebassets\\img\\home-decor-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADV\\Downloads\\MyMVCApp\\MyMVCApp\\wwwroot\\img\\icons\\flags\\AU.png",
+      "PackagePath": "staticwebassets\\img\\icons\\flags\\AU.png"
+    },
+    {
+      "Id": "C:\\Users\\ADV\\Downloads\\MyMVCApp\\MyMVCApp\\wwwroot\\img\\icons\\flags\\BR.png",
+      "PackagePath": "staticwebassets\\img\\icons\\flags\\BR.png"
+    },
+    {
+      "Id": "C:\\Users\\ADV\\Downloads\\MyMVCApp\\MyMVCApp\\wwwroot\\img\\icons\\flags\\DE.png",
+      "PackagePath": "staticwebassets\\img\\icons\\flags\\DE.png"
+    },
+    {
+      "Id": "C:\\Users\\ADV\\Downloads\\MyMVCApp\\MyMVCApp\\wwwroot\\img\\icons\\flags\\GB.png",
+      "PackagePath": "staticwebassets\\img\\icons\\flags\\GB.png"
+    },
+    {
+      "Id": "C:\\Users\\ADV\\Downloads\\MyMVCApp\\MyMVCApp\\wwwroot\\img\\icons\\flags\\US.png",
+      "PackagePath": "staticwebassets\\img\\icons\\flags\\US.png"
+    },
+    {
+      "Id": "C:\\Users\\ADV\\Downloads\\MyMVCApp\\MyMVCApp\\wwwroot\\img\\illustrations\\chat.png",
+      "PackagePath": "staticwebassets\\img\\illustrations\\chat.png"
+    },
+    {
+      "Id": "C:\\Users\\ADV\\Downloads\\MyMVCApp\\MyMVCApp\\wwwroot\\img\\illustrations\\danger-chat-ill.png",
+      "PackagePath": "staticwebassets\\img\\illustrations\\danger-chat-ill.png"
+    },
+    {
+      "Id": "C:\\Users\\ADV\\Downloads\\MyMVCApp\\MyMVCApp\\wwwroot\\img\\illustrations\\dark-lock-ill.png",
+      "PackagePath": "staticwebassets\\img\\illustrations\\dark-lock-ill.png"
+    },
+    {
+      "Id": "C:\\Users\\ADV\\Downloads\\MyMVCApp\\MyMVCApp\\wwwroot\\img\\illustrations\\error-404.png",
+      "PackagePath": "staticwebassets\\img\\illustrations\\error-404.png"
+    },
+    {
+      "Id": "C:\\Users\\ADV\\Downloads\\MyMVCApp\\MyMVCApp\\wwwroot\\img\\illustrations\\error-500.png",
+      "PackagePath": "staticwebassets\\img\\illustrations\\error-500.png"
+    },
+    {
+      "Id": "C:\\Users\\ADV\\Downloads\\MyMVCApp\\MyMVCApp\\wwwroot\\img\\illustrations\\illustration-lock.jpg",
+      "PackagePath": "staticwebassets\\img\\illustrations\\illustration-lock.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADV\\Downloads\\MyMVCApp\\MyMVCApp\\wwwroot\\img\\illustrations\\illustration-reset.jpg",
+      "PackagePath": "staticwebassets\\img\\illustrations\\illustration-reset.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADV\\Downloads\\MyMVCApp\\MyMVCApp\\wwwroot\\img\\illustrations\\illustration-signin.jpg",
+      "PackagePath": "staticwebassets\\img\\illustrations\\illustration-signin.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADV\\Downloads\\MyMVCApp\\MyMVCApp\\wwwroot\\img\\illustrations\\illustration-signup.jpg",
+      "PackagePath": "staticwebassets\\img\\illustrations\\illustration-signup.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADV\\Downloads\\MyMVCApp\\MyMVCApp\\wwwroot\\img\\illustrations\\illustration-verification.jpg",
+      "PackagePath": "staticwebassets\\img\\illustrations\\illustration-verification.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADV\\Downloads\\MyMVCApp\\MyMVCApp\\wwwroot\\img\\illustrations\\lock.png",
+      "PackagePath": "staticwebassets\\img\\illustrations\\lock.png"
+    },
+    {
+      "Id": "C:\\Users\\ADV\\Downloads\\MyMVCApp\\MyMVCApp\\wwwroot\\img\\illustrations\\pattern-tree.svg",
+      "PackagePath": "staticwebassets\\img\\illustrations\\pattern-tree.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADV\\Downloads\\MyMVCApp\\MyMVCApp\\wwwroot\\img\\illustrations\\rocket-white.png",
+      "PackagePath": "staticwebassets\\img\\illustrations\\rocket-white.png"
+    },
+    {
+      "Id": "C:\\Users\\ADV\\Downloads\\MyMVCApp\\MyMVCApp\\wwwroot\\img\\ivana-square.jpg",
+      "PackagePath": "staticwebassets\\img\\ivana-square.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADV\\Downloads\\MyMVCApp\\MyMVCApp\\wwwroot\\img\\ivana-squares.jpg",
+      "PackagePath": "staticwebassets\\img\\ivana-squares.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADV\\Downloads\\MyMVCApp\\MyMVCApp\\wwwroot\\img\\ivancik.jpg",
+      "PackagePath": "staticwebassets\\img\\ivancik.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADV\\Downloads\\MyMVCApp\\MyMVCApp\\wwwroot\\img\\kal-visuals-square.jpg",
+      "PackagePath": "staticwebassets\\img\\kal-visuals-square.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADV\\Downloads\\MyMVCApp\\MyMVCApp\\wwwroot\\img\\logo-ct-dark.png",
+      "PackagePath": "staticwebassets\\img\\logo-ct-dark.png"
+    },
+    {
+      "Id": "C:\\Users\\ADV\\Downloads\\MyMVCApp\\MyMVCApp\\wwwroot\\img\\logo-ct.png",
+      "PackagePath": "staticwebassets\\img\\logo-ct.png"
+    },
+    {
+      "Id": "C:\\Users\\ADV\\Downloads\\MyMVCApp\\MyMVCApp\\wwwroot\\img\\logos\\gray-logos\\logo-coinbase.svg",
+      "PackagePath": "staticwebassets\\img\\logos\\gray-logos\\logo-coinbase.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADV\\Downloads\\MyMVCApp\\MyMVCApp\\wwwroot\\img\\logos\\gray-logos\\logo-nasa.svg",
+      "PackagePath": "staticwebassets\\img\\logos\\gray-logos\\logo-nasa.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADV\\Downloads\\MyMVCApp\\MyMVCApp\\wwwroot\\img\\logos\\gray-logos\\logo-netflix.svg",
+      "PackagePath": "staticwebassets\\img\\logos\\gray-logos\\logo-netflix.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADV\\Downloads\\MyMVCApp\\MyMVCApp\\wwwroot\\img\\logos\\gray-logos\\logo-pinterest.svg",
+      "PackagePath": "staticwebassets\\img\\logos\\gray-logos\\logo-pinterest.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADV\\Downloads\\MyMVCApp\\MyMVCApp\\wwwroot\\img\\logos\\gray-logos\\logo-spotify.svg",
+      "PackagePath": "staticwebassets\\img\\logos\\gray-logos\\logo-spotify.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADV\\Downloads\\MyMVCApp\\MyMVCApp\\wwwroot\\img\\logos\\gray-logos\\logo-vodafone.svg",
+      "PackagePath": "staticwebassets\\img\\logos\\gray-logos\\logo-vodafone.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADV\\Downloads\\MyMVCApp\\MyMVCApp\\wwwroot\\img\\marie.jpg",
+      "PackagePath": "staticwebassets\\img\\marie.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADV\\Downloads\\MyMVCApp\\MyMVCApp\\wwwroot\\img\\meeting.jpg",
+      "PackagePath": "staticwebassets\\img\\meeting.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADV\\Downloads\\MyMVCApp\\MyMVCApp\\wwwroot\\img\\office-dark.jpg",
+      "PackagePath": "staticwebassets\\img\\office-dark.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADV\\Downloads\\MyMVCApp\\MyMVCApp\\wwwroot\\img\\product-12.jpg",
+      "PackagePath": "staticwebassets\\img\\product-12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADV\\Downloads\\MyMVCApp\\MyMVCApp\\wwwroot\\img\\small-logos\\bootstrap.svg",
+      "PackagePath": "staticwebassets\\img\\small-logos\\bootstrap.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADV\\Downloads\\MyMVCApp\\MyMVCApp\\wwwroot\\img\\small-logos\\creative-tim.svg",
+      "PackagePath": "staticwebassets\\img\\small-logos\\creative-tim.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADV\\Downloads\\MyMVCApp\\MyMVCApp\\wwwroot\\img\\small-logos\\devto.svg",
+      "PackagePath": "staticwebassets\\img\\small-logos\\devto.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADV\\Downloads\\MyMVCApp\\MyMVCApp\\wwwroot\\img\\small-logos\\github.svg",
+      "PackagePath": "staticwebassets\\img\\small-logos\\github.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADV\\Downloads\\MyMVCApp\\MyMVCApp\\wwwroot\\img\\small-logos\\google-webdev.svg",
+      "PackagePath": "staticwebassets\\img\\small-logos\\google-webdev.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADV\\Downloads\\MyMVCApp\\MyMVCApp\\wwwroot\\img\\small-logos\\icon-bulb.svg",
+      "PackagePath": "staticwebassets\\img\\small-logos\\icon-bulb.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADV\\Downloads\\MyMVCApp\\MyMVCApp\\wwwroot\\img\\small-logos\\icon-sun-cloud.png",
+      "PackagePath": "staticwebassets\\img\\small-logos\\icon-sun-cloud.png"
+    },
+    {
+      "Id": "C:\\Users\\ADV\\Downloads\\MyMVCApp\\MyMVCApp\\wwwroot\\img\\small-logos\\logo-asana.svg",
+      "PackagePath": "staticwebassets\\img\\small-logos\\logo-asana.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADV\\Downloads\\MyMVCApp\\MyMVCApp\\wwwroot\\img\\small-logos\\logo-atlassian.svg",
+      "PackagePath": "staticwebassets\\img\\small-logos\\logo-atlassian.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADV\\Downloads\\MyMVCApp\\MyMVCApp\\wwwroot\\img\\small-logos\\logo-invision.svg",
+      "PackagePath": "staticwebassets\\img\\small-logos\\logo-invision.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADV\\Downloads\\MyMVCApp\\MyMVCApp\\wwwroot\\img\\small-logos\\logo-jira.svg",
+      "PackagePath": "staticwebassets\\img\\small-logos\\logo-jira.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADV\\Downloads\\MyMVCApp\\MyMVCApp\\wwwroot\\img\\small-logos\\logo-slack.svg",
+      "PackagePath": "staticwebassets\\img\\small-logos\\logo-slack.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADV\\Downloads\\MyMVCApp\\MyMVCApp\\wwwroot\\img\\small-logos\\logo-spotify.svg",
+      "PackagePath": "staticwebassets\\img\\small-logos\\logo-spotify.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADV\\Downloads\\MyMVCApp\\MyMVCApp\\wwwroot\\img\\small-logos\\logo-xd.svg",
+      "PackagePath": "staticwebassets\\img\\small-logos\\logo-xd.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADV\\Downloads\\MyMVCApp\\MyMVCApp\\wwwroot\\img\\team-1.jpg",
+      "PackagePath": "staticwebassets\\img\\team-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADV\\Downloads\\MyMVCApp\\MyMVCApp\\wwwroot\\img\\team-2.jpg",
+      "PackagePath": "staticwebassets\\img\\team-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADV\\Downloads\\MyMVCApp\\MyMVCApp\\wwwroot\\img\\team-3.jpg",
+      "PackagePath": "staticwebassets\\img\\team-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADV\\Downloads\\MyMVCApp\\MyMVCApp\\wwwroot\\img\\team-4.jpg",
+      "PackagePath": "staticwebassets\\img\\team-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADV\\Downloads\\MyMVCApp\\MyMVCApp\\wwwroot\\img\\team-5.jpg",
+      "PackagePath": "staticwebassets\\img\\team-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADV\\Downloads\\MyMVCApp\\MyMVCApp\\wwwroot\\img\\vr-bg.jpg",
+      "PackagePath": "staticwebassets\\img\\vr-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADV\\Downloads\\MyMVCApp\\MyMVCApp\\wwwroot\\js\\core\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\js\\core\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ADV\\Downloads\\MyMVCApp\\MyMVCApp\\wwwroot\\js\\core\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\js\\core\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ADV\\Downloads\\MyMVCApp\\MyMVCApp\\wwwroot\\js\\core\\popper.min.js",
+      "PackagePath": "staticwebassets\\js\\core\\popper.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ADV\\Downloads\\MyMVCApp\\MyMVCApp\\wwwroot\\js\\material-dashboard.js",
+      "PackagePath": "staticwebassets\\js\\material-dashboard.js"
+    },
+    {
+      "Id": "C:\\Users\\ADV\\Downloads\\MyMVCApp\\MyMVCApp\\wwwroot\\js\\material-dashboard.js.map",
+      "PackagePath": "staticwebassets\\js\\material-dashboard.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ADV\\Downloads\\MyMVCApp\\MyMVCApp\\wwwroot\\js\\material-dashboard.min.js",
+      "PackagePath": "staticwebassets\\js\\material-dashboard.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ADV\\Downloads\\MyMVCApp\\MyMVCApp\\wwwroot\\js\\plugins\\Chart.extension.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\Chart.extension.js"
+    },
+    {
+      "Id": "C:\\Users\\ADV\\Downloads\\MyMVCApp\\MyMVCApp\\wwwroot\\js\\plugins\\bootstrap-notify.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\bootstrap-notify.js"
+    },
+    {
+      "Id": "C:\\Users\\ADV\\Downloads\\MyMVCApp\\MyMVCApp\\wwwroot\\js\\plugins\\chartjs.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\chartjs.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ADV\\Downloads\\MyMVCApp\\MyMVCApp\\wwwroot\\js\\plugins\\countup.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\countup.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ADV\\Downloads\\MyMVCApp\\MyMVCApp\\wwwroot\\js\\plugins\\perfect-scrollbar.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\perfect-scrollbar.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ADV\\Downloads\\MyMVCApp\\MyMVCApp\\wwwroot\\js\\plugins\\smooth-scrollbar.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\smooth-scrollbar.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ADV\\Downloads\\MyMVCApp\\MyMVCApp\\wwwroot\\js\\plugins\\world.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\world.js"
+    },
+    {
+      "Id": "C:\\Users\\ADV\\Downloads\\MyMVCApp\\MyMVCApp\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\ADV\\Downloads\\MyMVCApp\\MyMVCApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\ADV\\Downloads\\MyMVCApp\\MyMVCApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ADV\\Downloads\\MyMVCApp\\MyMVCApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ADV\\Downloads\\MyMVCApp\\MyMVCApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ADV\\Downloads\\MyMVCApp\\MyMVCApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\ADV\\Downloads\\MyMVCApp\\MyMVCApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ADV\\Downloads\\MyMVCApp\\MyMVCApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ADV\\Downloads\\MyMVCApp\\MyMVCApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ADV\\Downloads\\MyMVCApp\\MyMVCApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\ADV\\Downloads\\MyMVCApp\\MyMVCApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ADV\\Downloads\\MyMVCApp\\MyMVCApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ADV\\Downloads\\MyMVCApp\\MyMVCApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ADV\\Downloads\\MyMVCApp\\MyMVCApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\ADV\\Downloads\\MyMVCApp\\MyMVCApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ADV\\Downloads\\MyMVCApp\\MyMVCApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ADV\\Downloads\\MyMVCApp\\MyMVCApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ADV\\Downloads\\MyMVCApp\\MyMVCApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\ADV\\Downloads\\MyMVCApp\\MyMVCApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ADV\\Downloads\\MyMVCApp\\MyMVCApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ADV\\Downloads\\MyMVCApp\\MyMVCApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ADV\\Downloads\\MyMVCApp\\MyMVCApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\ADV\\Downloads\\MyMVCApp\\MyMVCApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ADV\\Downloads\\MyMVCApp\\MyMVCApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ADV\\Downloads\\MyMVCApp\\MyMVCApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ADV\\Downloads\\MyMVCApp\\MyMVCApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\ADV\\Downloads\\MyMVCApp\\MyMVCApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ADV\\Downloads\\MyMVCApp\\MyMVCApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ADV\\Downloads\\MyMVCApp\\MyMVCApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ADV\\Downloads\\MyMVCApp\\MyMVCApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\ADV\\Downloads\\MyMVCApp\\MyMVCApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ADV\\Downloads\\MyMVCApp\\MyMVCApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ADV\\Downloads\\MyMVCApp\\MyMVCApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ADV\\Downloads\\MyMVCApp\\MyMVCApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\ADV\\Downloads\\MyMVCApp\\MyMVCApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ADV\\Downloads\\MyMVCApp\\MyMVCApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ADV\\Downloads\\MyMVCApp\\MyMVCApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ADV\\Downloads\\MyMVCApp\\MyMVCApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\ADV\\Downloads\\MyMVCApp\\MyMVCApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ADV\\Downloads\\MyMVCApp\\MyMVCApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ADV\\Downloads\\MyMVCApp\\MyMVCApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ADV\\Downloads\\MyMVCApp\\MyMVCApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\ADV\\Downloads\\MyMVCApp\\MyMVCApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ADV\\Downloads\\MyMVCApp\\MyMVCApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ADV\\Downloads\\MyMVCApp\\MyMVCApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ADV\\Downloads\\MyMVCApp\\MyMVCApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\ADV\\Downloads\\MyMVCApp\\MyMVCApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\ADV\\Downloads\\MyMVCApp\\MyMVCApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ADV\\Downloads\\MyMVCApp\\MyMVCApp\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\ADV\\Downloads\\MyMVCApp\\MyMVCApp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\ADV\\Downloads\\MyMVCApp\\MyMVCApp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ADV\\Downloads\\MyMVCApp\\MyMVCApp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\ADV\\Downloads\\MyMVCApp\\MyMVCApp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ADV\\Downloads\\MyMVCApp\\MyMVCApp\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\ADV\\Downloads\\MyMVCApp\\MyMVCApp\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\ADV\\Downloads\\MyMVCApp\\MyMVCApp\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ADV\\Downloads\\MyMVCApp\\MyMVCApp\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.MyMVCApp.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.MyMVCApp.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.MyMVCApp.props",
+      "PackagePath": "build\\MyMVCApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.MyMVCApp.props",
+      "PackagePath": "buildMultiTargeting\\MyMVCApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.MyMVCApp.props",
+      "PackagePath": "buildTransitive\\MyMVCApp.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

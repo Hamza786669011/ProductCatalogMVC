@@ -1,0 +1,45 @@
+﻿@model List<MyMvcProject.Models.Product>
+
+@{
+    ViewData["Title"] = "Products";
+}
+
+<h2>Products</h2>
+
+<!-- Search Input -->
+<input type="text" id="searchBox" class="form-control" placeholder="Search Products...">
+
+<!-- Product Table -->
+<div id="productTable">
+    @await Html.PartialAsync("_ProductTablePartial", Model)
+</div>
+
+<!-- Pagination -->
+<nav>
+    <ul class="pagination">
+        @for (int i = 1; i <= ViewBag.TotalPages; i++)
+        {
+            <li class="page-item @(i == ViewBag.CurrentPage ? "active" : "")">
+                <a class="page-link" href="@Url.Action("Index", new { page = i })">@i</a>
+            </li>
+        }
+    </ul>
+</nav>
+
+<!-- AJAX Script -->
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<script>
+    $(document).ready(function () {
+        $("#searchBox").on("keyup", function () {
+            var searchTerm = $(this).val();
+            $.ajax({
+                url: '@Url.Action("Search", "Products")',
+                type: 'GET',
+                data: { searchTerm: searchTerm },
+                success: function (result) {
+                    $("#productTable").html(result);
+                }
+            });
+        });
+    });
+</script>

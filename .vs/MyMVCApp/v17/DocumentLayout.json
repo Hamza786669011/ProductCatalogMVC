@@ -1,0 +1,77 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ADV\\Downloads\\MyMVCApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E83D14BB-3AB9-4C60-9418-9B0A1E6A2456}|MyMVCApp\\MyMVCApp.csproj|c:\\users\\adv\\downloads\\mymvcapp\\mymvcapp\\migrations\\20250329003444_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E83D14BB-3AB9-4C60-9418-9B0A1E6A2456}|MyMVCApp\\MyMVCApp.csproj|solutionrelative:mymvcapp\\migrations\\20250329003444_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E83D14BB-3AB9-4C60-9418-9B0A1E6A2456}|MyMVCApp\\MyMVCApp.csproj|c:\\users\\adv\\downloads\\mymvcapp\\mymvcapp\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E83D14BB-3AB9-4C60-9418-9B0A1E6A2456}|MyMVCApp\\MyMVCApp.csproj|solutionrelative:mymvcapp\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E83D14BB-3AB9-4C60-9418-9B0A1E6A2456}|MyMVCApp\\MyMVCApp.csproj|c:\\users\\adv\\downloads\\mymvcapp\\mymvcapp\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E83D14BB-3AB9-4C60-9418-9B0A1E6A2456}|MyMVCApp\\MyMVCApp.csproj|solutionrelative:mymvcapp\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\ADV\\Downloads\\MyMVCApp\\MyMVCApp\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "MyMVCApp\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\ADV\\Downloads\\MyMVCApp\\MyMVCApp\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "MyMVCApp\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T00:40:46.512Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20250329003444_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\ADV\\Downloads\\MyMVCApp\\MyMVCApp\\Migrations\\20250329003444_InitialCreate.cs",
+              "RelativeDocumentMoniker": "MyMVCApp\\Migrations\\20250329003444_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\ADV\\Downloads\\MyMVCApp\\MyMVCApp\\Migrations\\20250329003444_InitialCreate.cs",
+              "RelativeToolTip": "MyMVCApp\\Migrations\\20250329003444_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T00:34:45.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\ADV\\Downloads\\MyMVCApp\\MyMVCApp\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "MyMVCApp\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\ADV\\Downloads\\MyMVCApp\\MyMVCApp\\Models\\Product.cs",
+              "RelativeToolTip": "MyMVCApp\\Models\\Product.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwBIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T00:26:44.655Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
